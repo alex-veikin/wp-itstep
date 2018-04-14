@@ -96,6 +96,7 @@ function test_content_width() {
 	// phpcs:ignore WordPress.NamingConventions.PrefixAllGlobals.NonPrefixedVariableFound
 	$GLOBALS['content_width'] = apply_filters( 'test_content_width', 640 );
 }
+
 add_action( 'after_setup_theme', 'test_content_width', 0 );
 
 /**
@@ -114,6 +115,7 @@ function test_widgets_init() {
 		'after_title'   => '</h2>',
 	) );
 }
+
 add_action( 'widgets_init', 'test_widgets_init' );
 
 /**
@@ -122,33 +124,31 @@ add_action( 'widgets_init', 'test_widgets_init' );
 function test_scripts() {
 	wp_enqueue_style( 'test-style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'test-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
+	wp_enqueue_script( 'test-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215',
+		true );
 
-	wp_enqueue_script( 'test-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
+	wp_enqueue_script( 'test-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(),
+		'20151215', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
 }
-add_action( 'wp_enqueue_scripts', 'test_scripts' );
 
+add_action( 'wp_enqueue_scripts', 'test_scripts' );
 
 
 /**
  * Top desktop menu
  */
 
-//function top_desktop_menu() {
-//	register_nav_menu( 'top', 'Верхнее десктоп меню' );
-//}
-//
-//add_action( 'after_setup_theme', 'top_desktop_menu' );
+function register_menus() {
+	register_nav_menus( [
+		'top_menu' => 'Top menu',
+	] );
+}
 
-
-
-
-
-
+add_action( 'after_setup_theme', 'register_menus' );
 
 
 /**
