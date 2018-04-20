@@ -1,11 +1,17 @@
 <?php
 /**
- * test functions and definitions
- *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
- * @package test
+
+Required: set ‘ot_theme_mode’ filter to true.
  */
+add_filter( 'ot_theme_mode', '__return_true' );
+/**
+
+Required: include OptionTree.
+ */
+require( trailingslashit( get_template_directory() ) . 'option-tree/ot-loader.php' );
+require( trailingslashit( get_template_directory() ) . 'functions/functions.php' );
+require( trailingslashit( get_template_directory() ) . 'functions/meta-boxes.php' );
+require( trailingslashit( get_template_directory() ) . 'functions/theme-options.php' );
 
 if ( ! function_exists( 'test_setup' ) ) :
 	/**

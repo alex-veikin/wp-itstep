@@ -36,7 +36,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 logo">
-                <a href="" title="ООО МеталлСтрой Сик"><img src="<?php echo get_template_directory_uri() ?>/images/logo.png" alt="ООО "МеталлСтрой Сик"">ООО "МеталлСтрой Сик"</a>
+                <a href="" title="ООО МеталлСтрой Сик"><img style="max-height: 100px" src="<?php echo ot_get_option('logo') ?>" alt="ООО "МеталлСтрой Сик"">ООО "МеталлСтрой Сик"</a>
             </div>
             <div class="col-md-6 col-sm-12 top-nav">
                 <nav class="navbar navbar-transparent" role="navigation">
@@ -66,3 +66,26 @@
         </div>
     </div>
 </header>
+
+<section id="contacts">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-8">
+                <ul class="list-inline phones">
+                    <li><i class="fa fa-mobile" aria-hidden="true"></i><?php echo ot_get_option('phone_1') ?></li>
+                    <li><?php echo ot_get_option('phone_2') ?></li>
+                    <li><?php echo ot_get_option('phone_3') ?></li>
+                </ul>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <a href="" title="" class="feedback">Напишите нам</a>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <ul class="list-inline lang">
+                    <li class="active"><a href="">RU</a></li>
+                    <li><a href="">EN</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

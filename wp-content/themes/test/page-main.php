@@ -5,29 +5,6 @@
  */
 
 get_header(); ?>
-
-<section id="contacts">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-sm-8">
-                <ul class="list-inline phones">
-                    <li><i class="fa fa-mobile" aria-hidden="true"></i>+ 375 (232) 21-41-14</li>
-                    <li>+375 (232) 21-41-16</li>
-                    <li> +375(44) 567-21-15</li>
-                </ul>
-            </div>
-            <div class="col-md-2 col-sm-2">
-                <a href="" title="" class="feedback">Напишите нам</a>
-            </div>
-            <div class="col-md-2 col-sm-2">
-                <ul class="list-inline lang">
-                    <li class="active"><a href="">RU</a></li>
-                    <li><a href="">EN</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
 <section id="slider">
     <div class="container">
         <div class="row">
@@ -69,42 +46,27 @@ get_header(); ?>
         </div>
     </div>
 </section>
-<section id="services">
-    <div class="container">
-        <div class="row">
-            <h2>Наши Услуги</h2>
-            <div class="col-md-4">
-                <div class="services-block metall">
-                    <div class="services-desc">
-                        <h4>Металлоконструкции</h4>
-                        <p><a href="">- Ворота</a></p>
-                        <p><a href="">- Заборы</a></p>
-                        <p><a href="">- Качели</a></p>
+
+<?php if ( count( ot_get_option( 'services' ) ) ) : ?>
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <h2>Наши Услуги</h2>
+				<?php foreach ( ot_get_option( 'services' ) as $service ) : ?>
+                    <div class="col-md-4">
+                        <div class="services-block metall" style="background-image: url(<?php echo $service['service_image'] ?>);">
+                            <div class="services-desc">
+                                <h4><?php echo $service['title'] ?></h4>
+								<?php echo $service['service'] ?>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="services-block build">
-                    <div class="services-desc">
-                        <h4>Строительство</h4>
-                        <p><a href="">- Ангары</a></p>
-                        <p><a href="">- Гаражи</a></p>
-                        <p><a href="">- Парковки</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="services-block arenda">
-                    <div class="services-desc">
-                        <h4>Аренда</h4>
-                        <p><a href="">- Спецтехники</a></p>
-                        <p><a href="">- Офисы</a></p>
-                    </div>
-                </div>
+				<?php endforeach; ?>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+<?php endif; ?>
+
 <section id="about-company">
     <div class="container">
         <div class="row">

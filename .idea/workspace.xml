@@ -2,10 +2,293 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7191dc-19cf-48f0-8959-05ec56a9093a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/fonts/option-tree-font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/fonts/option-tree-font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/fonts/option-tree-font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/dual-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/full-width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/left-dual-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/left-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/right-dual-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/layout/right-sidebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/ot-pre-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/ot-select-hover-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/ot-select-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/ot-select-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/images/ot-select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/languages/option-tree-et.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/css/ot-admin-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/css/ot-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/fonts/option-tree-font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/js/ot-admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/js/ot-postformats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/js/vendor/jquery/jquery-ui-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/theme-mode/demo-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/theme-mode/demo-meta-boxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/theme-mode/demo-theme-options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-cleanup-api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-compat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-deprecated.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-docs-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-option-types.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions-settings-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-meta-box-api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-post-formats-api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-settings-api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/languages/option-tree-et.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/languages/option-tree.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/ot-loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/test/option-tree/readme.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/_config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/_gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/_gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/_travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.theme.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.theme.green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/assets/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/bird_blue_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-drag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-modern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-module.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-options.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-responsive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/feature-zombie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/owl-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/img/twitter_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/js/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/custom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/demos.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/docs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/docs.theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/scss/highlight.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/vendors/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/vendors/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/vendors/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/vendors/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/data/classes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/data/events.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/data/features.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/data/options.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/helpers/modulo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/helpers/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/layouts/demos.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/layouts/docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/layouts/home.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/animate.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/autoheight.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/autoplay.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/autowidth.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/basic.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/center.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/demos.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/events.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/merge.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/responsive.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/rtl.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/test.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/demos/video.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/api-classes.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/api-events.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/api-options.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/dev-external.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/started-faq.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/started-installation.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/support-contact.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/pages/index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/footer.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/head.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/header.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/home-carousel.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/home-features.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/home-hero.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/home-teaser-text.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/javascripts.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/releated-docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/sidenav-docs.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/title.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/docs_src/templates/partials/vendors.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/img/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/img/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/_jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/_jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.autoheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.autoplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.autorefresh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.lazyload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.support.modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/js/owl.video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_animate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_autoheight.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_lazyload.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_theme.default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_theme.green.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/_video.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/owl.carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/owl.theme.default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/src/scss/owl.theme.green.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/OwlCarousel2-2.1.6/test/unit/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/bootstrap-v-3.3.2/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/assets/jquery-1.11.2/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/feedback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/second-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/arenda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/build.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/cust-border-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/edges-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/fon-company-contacts.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/fon_about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/fon_inner_about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/fon_sert.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/fon_slider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/inner-contacts-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/item-block-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/left_border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/li_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/li_circle_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/metall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/next-sert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/next-nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/partner-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/partners/prev-nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/prev-sert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/right-border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/sert-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/images/slide-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/styles/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/template/styles/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/test/site — копия/thrid-page.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/page-main.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/page-main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/test/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/test/page.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +299,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/test/index.php">
+      <file leaf-file-name="theme-options.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/test/functions/theme-options.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="311">
+              <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="meta-boxes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/test/functions/meta-boxes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+              <folding>
+                <element signature="e#2347#4275#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page-main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="-612">
+              <caret line="56" column="127" lean-forward="false" selection-start-line="56" selection-start-column="127" selection-end-line="56" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -53,6 +348,11 @@
       <find>title</find>
       <find>src=&quot;</find>
       <find>navbar-right</find>
+      <find>demo_te</find>
+      <find>group</find>
+      <find>image</find>
+      <find>upload</find>
+      <find>demo_list</find>
     </findStrings>
     <replaceStrings>
       <replace>src=&quot;&lt;?php echo get_template_directory_uri() ?&gt;/</replace>
@@ -67,12 +367,14 @@
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/test/site — копия/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/test/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/test/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/test/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/test/page-about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/test/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/test/page-main.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/test/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/test/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/test/page-main.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/test/functions/theme-options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/test/functions/meta-boxes.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/test/page.php" />
       </list>
     </option>
   </component>
@@ -136,18 +438,11 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="wp-itstep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wp-itstep" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -155,11 +450,50 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+              <item name="plugins" type="cbb8eebc:String" user="plugins" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="test" type="cbb8eebc:String" user="test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="test" type="cbb8eebc:String" user="test" />
+              <item name="functions" type="cbb8eebc:String" user="functions" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="wp-itstep" type="cbb8eebc:String" user="wp-itstep" />
+              <item name="wp-content" type="cbb8eebc:String" user="wp-content" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="test" type="cbb8eebc:String" user="test" />
+              <item name="option-tree" type="cbb8eebc:String" user="option-tree" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,6 +502,9 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\wp-itstep\wp-content\themes\test\functions" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\wp-itstep\wp-content\themes\test" />
       <recent name="C:\OSPanel\domains\wp-itstep\wp-content\themes\test\css" />
@@ -199,23 +536,35 @@
       <workItem from="1523633152168" duration="8460000" />
       <workItem from="1523713567803" duration="3521000" />
       <workItem from="1523717588101" duration="4500000" />
-      <workItem from="1523722123279" duration="229000" />
+      <workItem from="1523722123279" duration="1079000" />
+      <workItem from="1524238040821" duration="9139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19160000" />
+    <option name="totallyTimeSpent" value="29149000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26477024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2702407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -223,7 +572,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -257,10 +605,36 @@
     <wordpressPath>C:\OSPanel\domains\wp-itstep</wordpressPath>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/test/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -422,18 +796,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/option-tree/assets/js/vendor/jquery/jquery-ui-timepicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/test/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="146" column="33" lean-forward="false" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
+        <state relative-caret-position="221">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -446,18 +820,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/option-tree/includes/ot-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="291">
+          <caret line="79" column="33" lean-forward="false" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+          <folding>
+            <marker date="1524241904656" expanded="true" signature="1837:2570" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="1911:2570" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="1959:2395" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="2082:2368" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="2475:2570" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="3677:3920" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="3705:3920" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="3731:3920" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="3775:3920" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="3823:3920" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="4159:4248" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="4292:4488" ph="..." />
+            <marker date="1524241904656" expanded="true" signature="4338:4469" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/functions/meta-boxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding>
+            <element signature="e#2347#4275#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/functions/theme-options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page-main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="-612">
+          <caret line="56" column="127" lean-forward="false" selection-start-line="56" selection-start-column="127" selection-end-line="56" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/test/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
